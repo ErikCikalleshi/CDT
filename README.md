@@ -1,1 +1,2 @@
 # CDT
+A school project
